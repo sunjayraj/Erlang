@@ -1,0 +1,9 @@
+#Wed May 30 04:54:07 EDT 2012
+backend_version=R15B
+eclipse.preferences.version=1
+external_includes=
+external_modules=
+include_dirs=include;
+nukeOutputOnClean=false
+output_dir=ebin
+source_dirs=src;
